@@ -1,4 +1,4 @@
-Notepad Web Application
+NOTEPAD WEB APPLICATION
 
 Description:
 - Developed a web-based Notepad application using ASP.NET Web API, HTML, CSS and JavaScript.
